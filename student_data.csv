@@ -1,0 +1,6 @@
+student_id,student_name,department,attendance_pct,average_marks,skills_score,backlogs,projects,internships,courses,certifications,linkedin_url,github_url,exam_percentage
+STU0001,Aarav Kumar,CSE,92,86,82,0,2,1,3,2,https://www.linkedin.com/,https://github.com/,86
+STU0002,Diya Reddy,AI-DS,58,48,45,2,0,0,1,0,,,48
+STU0003,Ishaan Verma,ECE,73,64,61,1,1,0,2,1,https://www.linkedin.com/,,64
+STU0004,Meera Shah,AI-DS,84,77,74,0,2,1,3,2,https://www.linkedin.com/,https://github.com/,77
+STU0005,Rohan Patel,IT,49,42,38,3,0,0,0,0,,,42

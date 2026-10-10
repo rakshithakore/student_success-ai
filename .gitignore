@@ -1,5 +1,4 @@
-student_success.db
-student_data.csv
+
 __pycache__/
 *.py[cod]
 .venv/
